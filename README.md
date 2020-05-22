@@ -1,5 +1,5 @@
 # Credtid-Card-Segmentation
-Credit card customer segmentation according to their behaviour
+Credit card customer segmentation according to their behaviour using Factor Analysis
 
 Background
 We are provided with 12 months of data of credit card holders, marketing team of a company wants to target the potential customers of different-different behavior, so that they can make a marketing strategy to target them easily according to their behavior. Also, can provide them suitable offers so that overall productivity can increase hence profit.
